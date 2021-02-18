@@ -3,7 +3,7 @@
 
 #include "curvegenerator.h"
 
-const double MIN_VALUE = -10.0;
+const double MIN_VALUE = 1.0;
 const double MAX_VALUE = 10.0;
 
 double CurveGenerator::randomCurveParameter()
